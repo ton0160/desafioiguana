@@ -1,0 +1,139 @@
+body {
+font-family: 'Raleway', sans-serif;
+
+}
+
+header {
+
+background-color: black;
+height: 73px;
+text-align: center;
+overflow: hidden;
+
+}
+
+header h1 {
+
+    color: white;
+    font-size: 50px;
+    font-weight: 500;
+    margin: 11.5px;
+}
+
+
+
+#slider {
+
+    height: 727px;
+    background-image: url(../img/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+
+#dimension1 {
+    height: 384px;
+    background-color: black;
+    background-size: cover;
+    text-align: left;
+    color: white;
+       
+}
+
+#texto1 {
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 6em 3em 0 3em;
+    line-height: 1.6;
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+
+#igua1 {
+    margin-top: 50px;
+    margin-left: 100px;
+    height: 237px;
+}      
+
+
+
+
+#dimension2 {
+
+    height: 384px;
+    background-color: #1E1A13;
+    color: #FFFFFF;
+    overflow: hidden;
+
+}
+
+#dimension2 article {
+    margin: 75px auto 24px auto;
+    text-align: center;
+    width: 75%;
+}
+
+#dimension2 article h2 {
+
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.caracteristicas {
+float: left;
+width: 33%;
+
+}
+.caracteristicas p {
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 16px;
+
+}
+#dimension3 {
+
+    height: 348px;
+    background-color: black;
+    text-align: center;
+    overflow: hidden;
+}
+#dimension3 > section {
+    width: 75%;
+    margin: 73px auto;
+    overflow: hidden;
+}
+#dimension3 section.dimension3_img {
+    width: 30%;
+    float: left;
+
+}
+
+#dimension3 section.dimension3_img:not(:first-child){
+    margin-left: 5%;
+}
+#dimension3 section.dimension3_img img {
+    height: 202px;
+    width: 100%;
+
+}
+footer {
+    height: 102px;
+    background-color: #1E1A13;
+    text-align: center;
+    overflow: hidden;
+
+}
+footer p {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 41px;
+}
+footer p a {
+    color: #FFFFFF;
+    text-decoration: none;
+    
+}

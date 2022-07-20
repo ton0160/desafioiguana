@@ -12,7 +12,7 @@ overflow: hidden;
 header h1 {
 color: white;
 font-size: 50px;
-font-weight: 500;
+font-weight: bold;
 margin: 11.5px;
 }
 
@@ -34,7 +34,7 @@ color: white;
 #texto1 {
 margin-top: 50px;
 margin-left: 50px;
-padding: 6em 3em 0 3em;
+padding: 2em 3em 0 3em;
 line-height: 1.6;
 width: 50%;
 float: left;
